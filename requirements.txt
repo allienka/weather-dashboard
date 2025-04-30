@@ -1,0 +1,6 @@
+dash
+requests
+pandas
+plotly
+fmiopendata
+fmi-weather-client

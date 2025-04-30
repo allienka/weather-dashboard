@@ -1,0 +1,20 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# Docker
+*.tar
+*.log
+
+# macOS
+.DS_Store
+
+# Editor configs
+.vscode/
+.idea/
