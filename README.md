@@ -12,6 +12,13 @@ A web dashboard for visualizing weather conditions, built with Python and Dash.
 - ☁️ Hosted on Scaleway Serverless Containers  
 
 ---
+###🛠️ Technologies Used
+Python
+Dash
+Plotly
+Docker
+Scaleway Serverless Containers
+---
 
 ## 🧪 Run Locally
 
@@ -66,4 +73,6 @@ This app is deployed using Scaleway Serverless Containers.
 - **Tag:** `latest`  
 - **Container Port:** `8050`
 
+### 🌍 Access the App:
+[https://weatherdashboards2snn3wrj-weather-dashboards.functions.fnc.fr-par.scw.cloud](https://weatherdashboards2snn3wrj-weather-dashboards.functions.fnc.fr-par.scw.cloud)
 
